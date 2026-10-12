@@ -30,3 +30,7 @@ The SimGolf Mod's setup downloads and installs this pack for you when you pick *
 ## Credits and legal
 
 Unofficial fan project, not affiliated with or endorsed by Firaxis Games, Electronic Arts or Take-Two Interactive. SimGolf and its art are their property; this pack is an upscale of that art and is shared with permission. It will be taken down on request from the rights holder.
+
+## Support
+
+Free hobby project. If you enjoy it, you can [buy me a coffee on Ko-fi](https://ko-fi.com/finalpantasy). Thank you!
